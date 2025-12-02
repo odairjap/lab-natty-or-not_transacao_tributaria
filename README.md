@@ -59,17 +59,3 @@ O eBook fornece ao leitor um **roteiro claro** para abordar a negociação de d�
 
 ## 💭 Reflexão (Opcional)
 A transação tributária, embora muitas vezes pareça intuitiva, exige que o profissional não se contente com **"receitas de bolo" ou manuais**, mas sim utilize o **conhecimento especializado** para oferecer uma solução **personalizada** e **estratégica**. A entrega de valor deve ser baseada na **prática** e no entendimento da **realidade** do cliente.
-
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
